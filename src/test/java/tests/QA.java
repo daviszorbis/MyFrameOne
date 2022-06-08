@@ -6,7 +6,7 @@ public class QA {
 	
 	@Test
     public void exampleOfTestNgMaven() {
-        System.out.println("This is TestNG-Maven Example by Deepak");
+        System.out.println("This is TestNG-Maven Example by Davis");
     }
 
 }
